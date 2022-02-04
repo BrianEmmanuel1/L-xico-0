@@ -1,0 +1,15 @@
+C:\Users\gatog\OneDrive\ITQ\Cuarto Semestre\Automatas I\Léxico 0\bin\Debug\net6.0\Léxico 0.exe
+C:\Users\gatog\OneDrive\ITQ\Cuarto Semestre\Automatas I\Léxico 0\bin\Debug\net6.0\Léxico 0.deps.json
+C:\Users\gatog\OneDrive\ITQ\Cuarto Semestre\Automatas I\Léxico 0\bin\Debug\net6.0\Léxico 0.runtimeconfig.json
+C:\Users\gatog\OneDrive\ITQ\Cuarto Semestre\Automatas I\Léxico 0\bin\Debug\net6.0\Léxico 0.dll
+C:\Users\gatog\OneDrive\ITQ\Cuarto Semestre\Automatas I\Léxico 0\bin\Debug\net6.0\ref\Léxico 0.dll
+C:\Users\gatog\OneDrive\ITQ\Cuarto Semestre\Automatas I\Léxico 0\bin\Debug\net6.0\Léxico 0.pdb
+C:\Users\gatog\OneDrive\ITQ\Cuarto Semestre\Automatas I\Léxico 0\obj\Debug\net6.0\Léxico 0.csproj.AssemblyReference.cache
+C:\Users\gatog\OneDrive\ITQ\Cuarto Semestre\Automatas I\Léxico 0\obj\Debug\net6.0\Léxico 0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gatog\OneDrive\ITQ\Cuarto Semestre\Automatas I\Léxico 0\obj\Debug\net6.0\Léxico 0.AssemblyInfoInputs.cache
+C:\Users\gatog\OneDrive\ITQ\Cuarto Semestre\Automatas I\Léxico 0\obj\Debug\net6.0\Léxico 0.AssemblyInfo.cs
+C:\Users\gatog\OneDrive\ITQ\Cuarto Semestre\Automatas I\Léxico 0\obj\Debug\net6.0\Léxico 0.csproj.CoreCompileInputs.cache
+C:\Users\gatog\OneDrive\ITQ\Cuarto Semestre\Automatas I\Léxico 0\obj\Debug\net6.0\Léxico 0.dll
+C:\Users\gatog\OneDrive\ITQ\Cuarto Semestre\Automatas I\Léxico 0\obj\Debug\net6.0\ref\Léxico 0.dll
+C:\Users\gatog\OneDrive\ITQ\Cuarto Semestre\Automatas I\Léxico 0\obj\Debug\net6.0\Léxico 0.pdb
+C:\Users\gatog\OneDrive\ITQ\Cuarto Semestre\Automatas I\Léxico 0\obj\Debug\net6.0\Léxico 0.genruntimeconfig.cache
