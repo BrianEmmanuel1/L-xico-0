@@ -9,6 +9,7 @@ namespace Léxico_0
             Identicador, Numero, Caracter, Asignacion, Inicializacion,
             OperadorLogico, OperadorRelacional, OperadorTernario,
             OperadorTermino, OperadorFactor, IncrementoTermino, IncrementoFactor, 
+            FinSentencia
         }
 
         public void setContenido(string Contenido)

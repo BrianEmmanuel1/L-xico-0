@@ -7,18 +7,13 @@ namespace Léxico_0
         
         static void Main(string[] args){
 
-
-            Console.WriteLine("Hola mundo");
-            /*
-            archivo a = new archivo();
-            //a.desplegar();
-            //a.Palabras();
+            Lexico a = new Lexico();
             
             while(!a.FinArchivo()){
                 a.NextToken();
             }
             
-            a.Cerrar();*/
+            a.Cerrar();
         }
     }
 }
