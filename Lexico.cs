@@ -64,6 +64,37 @@ namespace Léxico_0
                 Buffer+=c;
                 setClasificacion(Tipos.OperadorTermino);
             }
+            else if(c == '&')
+            {
+                Buffer+=c;
+                setClasificacion(Tipos.Caracter);
+                if((c = (char) Archivo.Peek()) == '&')
+                {
+                    Buffer+=c;
+                    setClasificacion(Tipos.OperadorLogico);
+                    Archivo.Read();
+                }
+            }else if(c == '|')
+            {
+                Buffer+=c;
+                setClasificacion(Tipos.Caracter);
+                if((c = (char) Archivo.Peek()) == '|')
+                {
+                    Buffer+=c;
+                    setClasificacion(Tipos.OperadorLogico);
+                    Archivo.Read();
+                }
+            }else if(c == '!')
+            {
+                Buffer+=c;
+                setClasificacion(Tipos.OperadorLogico);
+                if((c = (char) Archivo.Peek()) == '=')
+                {
+                    Buffer+=c;
+                    setClasificacion(Tipos.OperadorRelacional);
+                    Archivo.Read();
+                }
+            }
             else
             {
                 Buffer+=c;

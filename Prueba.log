@@ -1,3 +1,11 @@
+&& | OperadorLogico
+&& | OperadorLogico
+& | Caracter
+|| | OperadorLogico
+| | Caracter
+! | OperadorLogico
+! | OperadorLogico
+!= | OperadorRelacional
 Area | Identicador
 = | Asignacion
 ( | Caracter
